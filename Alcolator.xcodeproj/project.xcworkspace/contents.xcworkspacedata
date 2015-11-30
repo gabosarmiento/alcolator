@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../Alcolator/ViewController.h">
+   </FileRef>
+   <FileRef
+      location = "group:../Alcolator/ViewController.m">
+   </FileRef>
+   <FileRef
       location = "self:Alcolator.xcodeproj">
    </FileRef>
 </Workspace>
